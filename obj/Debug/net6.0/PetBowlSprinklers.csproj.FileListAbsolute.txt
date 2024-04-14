@@ -1,0 +1,8 @@
+C:\Users\Andrew\source\repos\PetBowlSprinklers\bin\Debug\net6.0\PetBowlSprinklers.deps.json
+C:\Users\Andrew\source\repos\PetBowlSprinklers\bin\Debug\net6.0\PetBowlSprinklers.dll
+C:\Users\Andrew\source\repos\PetBowlSprinklers\obj\Debug\net6.0\PetBowlSprinklers.csproj.AssemblyReference.cache
+C:\Users\Andrew\source\repos\PetBowlSprinklers\obj\Debug\net6.0\PetBowlSprinklers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\source\repos\PetBowlSprinklers\obj\Debug\net6.0\PetBowlSprinklers.AssemblyInfoInputs.cache
+C:\Users\Andrew\source\repos\PetBowlSprinklers\obj\Debug\net6.0\PetBowlSprinklers.AssemblyInfo.cs
+C:\Users\Andrew\source\repos\PetBowlSprinklers\obj\Debug\net6.0\PetBowlSprinklers.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\PetBowlSprinklers\obj\Debug\net6.0\PetBowlSprinklers.dll
