@@ -40,7 +40,7 @@ Here's a list of the configuration options available. Once run, a `config.json` 
 | `ForceExactBowlTile` | Does the sprinkler need to fill the exact bowl tile? *(Pet Bowl building is 2x2 tiles, only one of the tiles is the actual bowl)* | `boolean` | `true` |
 | `BowlFilledDuration` | How many days should the bowl stay filled? | `number` | `1` |
 | `SnowFillsBowl` | Should snow fill the pet bowl? | `boolean` | `false` |
-| `CheatyWatering` | Cheater cheater pumkin eater, bowl will always be filled. | `boolean` | `false` |
+| `CheatyWatering` | Cheater cheater pumpkin eater, bowl will always be filled. | `boolean` | `false` |
 
 # Install
 
