@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrew\\source\\repos\\PetBowlSprinklers\\PetBowlSprinklers.csproj": {}
+    "C:\\Users\\Andrew\\source\\repos\\stardew-valley-pet-bowl-sprinklers\\PetBowlSprinklers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrew\\source\\repos\\PetBowlSprinklers\\PetBowlSprinklers.csproj": {
+    "C:\\Users\\Andrew\\source\\repos\\stardew-valley-pet-bowl-sprinklers\\PetBowlSprinklers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrew\\source\\repos\\PetBowlSprinklers\\PetBowlSprinklers.csproj",
+        "projectUniqueName": "C:\\Users\\Andrew\\source\\repos\\stardew-valley-pet-bowl-sprinklers\\PetBowlSprinklers.csproj",
         "projectName": "PetBowlSprinklers",
-        "projectPath": "C:\\Users\\Andrew\\source\\repos\\PetBowlSprinklers\\PetBowlSprinklers.csproj",
+        "projectPath": "C:\\Users\\Andrew\\source\\repos\\stardew-valley-pet-bowl-sprinklers\\PetBowlSprinklers.csproj",
         "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrew\\source\\repos\\PetBowlSprinklers\\obj\\",
+        "outputPath": "C:\\Users\\Andrew\\Source\\Repos\\stardew-valley-pet-bowl-sprinklers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",

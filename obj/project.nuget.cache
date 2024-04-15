@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UlmyWIP9fIKA40LowAbneyYJD1khainIAZWznR07/eX002f1mX0bwDAmb7Cs2vV53GsXbM7uIAuq+IoJpClDgg==",
+  "dgSpecHash": "wR0OB9UtUseoUe64RV5BvfNksUPMkwBc9BdQW881FZdF31kbITqCRtGr3T9Et7LxddKjL6q8QHYqYBaUL2oJNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andrew\\source\\repos\\PetBowlSprinklers\\PetBowlSprinklers.csproj",
+  "projectFilePath": "C:\\Users\\Andrew\\source\\repos\\stardew-valley-pet-bowl-sprinklers\\PetBowlSprinklers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrew\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.1.1\\pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512",
     "C:\\Users\\Andrew\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PetBowlSprinklers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec314cc61a9a58282556bcfc76d2b8a6b7ffd4f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PetBowlSprinklers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PetBowlSprinklers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
